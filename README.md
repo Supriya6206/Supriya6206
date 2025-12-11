@@ -18,10 +18,10 @@
 ---
 
 ## 🌱 About Me
-- 🚀 I’m currently exploring **Python** and building cool projects  
-- 🎨 Skilled in **web development & graphic design**  
-- ⚡ Fun fact: I **do crochet** & have a **black belt in Taekwondo**  
-- 🌐 Always learning new ways to **blend creativity with technology**  
+ 🚀 I’m currently exploring **Python** and building cool projects  
+ 🎨 Skilled in **web development & graphic design**  
+ ⚡ Fun fact: I **do crochet** & have a **black belt in Taekwondo**  
+
 
 ---
 
