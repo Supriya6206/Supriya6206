@@ -21,6 +21,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Supriya6206&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+### ⚡ Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Supriya6206&theme=nord" />
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Supriya6206&icon=0&color=0)](https://visitcount.itsvg.in)
 
