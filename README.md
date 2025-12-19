@@ -59,11 +59,10 @@
 
 ## 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Supriya6206&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Supriya6206&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Supriya6206&" alt="Streak Stats" /></p>
 
----
+<br>
 
+<hr>
 ## 🤯 Brain Loading…
 <p>
   <img src="https://i.pinimg.com/originals/c9/15/e5/c915e5b79202321843151a5ead7ecbc4.gif" alt="Funny GIF" width="300"/>
