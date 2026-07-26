@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Supriya Shrestha</h1>
 
 # 💫 About Me:
-🔭 Planning work, exploring all areas<br>👩‍🦰Graphics Designer<br>🌱 Currently learning backend, database<br>💬 Ask me about graphics designing and frontend<br>⚡ Fun fact: I do crochet and have a black belt in taekwondo🥋
+🔭 Planning work, exploring all areas<br>👩‍🦰Graphics Designer<br>🌱 Currently learning backend, database<br>💬 Ask me about graphics designing <br>⚡ Fun fact: I do crochet and have a black belt in taekwondo🥋
 
 
 ## 🌐 Socials:
